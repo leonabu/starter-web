@@ -7,7 +7,7 @@ Ime Prezime ime@git.training @ime
 
 # THANKS
 
-    <name>
+    Everyone!
 
 # TECHNOLOGY COLOPHON
 
