@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple webside project --> Git and Github tohether
+This is a simple webside project --> Git and Github together.
+Adding a line for rebasing example.
 
 ## Introduction
 
