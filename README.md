@@ -1,9 +1,11 @@
 # Starter Web Project
 
-##Introduction
+This is a simple webside project --> Git and Github tohether
+
+## Introduction
 
 ## Purpose
 
-##Deployment
+## Deployment
 
-#How to Contribute
+## How to Contribute
