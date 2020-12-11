@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple webside project --> Git and Github together.
-Adding a line for rebasing example, then more changes from myfeature branch too.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
